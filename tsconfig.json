@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "module": "commonjs",
+        "target": "es5",
+        "jsx": "react",
+        "allowSyntheticDefaultImports": true,
+        "preserveConstEnums": true,
+        "removeComments": true,
+        "noImplicitAny": true,
+        "resolveJsonModule": true,
+        "lib":[
+            "es2015",
+            "dom"
+        ]
+    },
+    "include": [
+        "./src/**/*"
+    ],
+    "compileOnSave": false
+}

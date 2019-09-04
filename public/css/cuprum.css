@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Cuprum';
+    src: local('Cuprum'), local('Cuprum-Regular'), url('../font/cuprum/Cuprum-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cuprum';
+    src: local('Cuprum Italic'), local('Cuprum-Italic'), url('../font/cuprum/Cuprum-Italic.ttf');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Cuprum';
+    src: local('Cuprum Bold'), local('Cuprum-Bold'), url('../font/cuprum/Cuprum-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cuprum';
+    src: local('Cuprum Bold Italic'), local('Cuprum-BoldItalic'), url('../font/cuprum/Cuprum-BoldItalic.ttf');
+    font-weight: 700;
+    font-style: italic;
+}
